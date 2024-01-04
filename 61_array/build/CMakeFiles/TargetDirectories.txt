@@ -1,0 +1,3 @@
+/home/aistudio/bilibili/61_array/build/CMakeFiles/MyProject.dir
+/home/aistudio/bilibili/61_array/build/CMakeFiles/edit_cache.dir
+/home/aistudio/bilibili/61_array/build/CMakeFiles/rebuild_cache.dir

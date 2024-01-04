@@ -1,0 +1,3 @@
+/home/aistudio/bilibili/35_header_cpp/build/CMakeFiles/MyProject.dir
+/home/aistudio/bilibili/35_header_cpp/build/CMakeFiles/edit_cache.dir
+/home/aistudio/bilibili/35_header_cpp/build/CMakeFiles/rebuild_cache.dir

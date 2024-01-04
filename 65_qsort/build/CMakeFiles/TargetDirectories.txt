@@ -1,0 +1,3 @@
+/home/aistudio/bilibili/65_qsort/build/CMakeFiles/MyProject.dir
+/home/aistudio/bilibili/65_qsort/build/CMakeFiles/edit_cache.dir
+/home/aistudio/bilibili/65_qsort/build/CMakeFiles/rebuild_cache.dir

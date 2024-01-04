@@ -1,0 +1,3 @@
+/home/aistudio/bilibili/69_2d_array_para/build/CMakeFiles/MyProject.dir
+/home/aistudio/bilibili/69_2d_array_para/build/CMakeFiles/edit_cache.dir
+/home/aistudio/bilibili/69_2d_array_para/build/CMakeFiles/rebuild_cache.dir
