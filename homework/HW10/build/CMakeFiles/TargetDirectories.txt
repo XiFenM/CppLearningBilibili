@@ -1,0 +1,3 @@
+/home/aistudio/bilibili/homework/HW10/build/CMakeFiles/MyProject.dir
+/home/aistudio/bilibili/homework/HW10/build/CMakeFiles/edit_cache.dir
+/home/aistudio/bilibili/homework/HW10/build/CMakeFiles/rebuild_cache.dir
