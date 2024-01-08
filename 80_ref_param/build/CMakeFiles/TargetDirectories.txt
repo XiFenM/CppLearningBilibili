@@ -1,0 +1,3 @@
+/home/aistudio/bilibili/80_ref_param/build/CMakeFiles/MyProject.dir
+/home/aistudio/bilibili/80_ref_param/build/CMakeFiles/edit_cache.dir
+/home/aistudio/bilibili/80_ref_param/build/CMakeFiles/rebuild_cache.dir
